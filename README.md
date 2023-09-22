@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiBurgmaier
-- 👀 I’m interested in technology, gym, football, poker, ...
-- 🌱 I’m currently learning poker (microstacks), javascript and the communication between PCs
+- 👀 I’m interested in technology, gym, football ...
+- 🌱 I’m currently learning with leetcode and try to get into the communication between PCs
 - 📫 How to reach me silasburgmaier@gmx.de
 
 <!---
