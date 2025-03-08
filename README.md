@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiBurgmaier
-- 👀 I’m interested in technology, gym, football ...
-- 🌱 I’m currently learning with leetcode and try to get into the communication between PCs
+- 👀 I’m interested in technology and sports
+- 👾 I’m currently studying at DHBW Ravensburg and working at HENSOLDT 
 - 📫 How to reach me silasburgmaier@gmx.de
 
 <!---
